@@ -1,12 +1,6 @@
 {
     "versions": [
         {
-            "version": "9.0.0-beta",
-            "tag": "9.0.0-beta.b42121",
-            "alembic_version": "",
-            "release_date": "2020-06-15"
-        },
-        {
             "version": "10.0.0-beta",
             "tag": "10.0.0-beta.b49597",
             "alembic_version": "89bc7873a3e0",
@@ -33,3 +27,4 @@
     ],
     "versionsUrl": "https://raw.githubusercontent.com/kuniteru/gitest/refs/heads/master/versions.json"
 }
+
