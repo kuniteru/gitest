@@ -23,13 +23,8 @@
             "tag": "25.1.0",
             "alembic_version": "9e8c841d1a30",
             "release_date": "2025-01-09"
-        },
-        {
-            "version": "25.8.0",
-            "tag": "25.8.0",
-            "alembic_version": "db0aca1ebd32",
-            "release_date": "2025-08-01"
         }
     ],
     "versionsUrl": "https://raw.githubusercontent.com/kuniteru/gitest/refs/heads/master/versions.json"
 }
+
